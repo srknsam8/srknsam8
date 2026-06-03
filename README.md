@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @srknsam8
 - 👀 I’m interested in coding, UI/UX, architecture, literature and cinema.
-- 🌱 I’m currently learning UI/UX, Data Analysis, D.S.A & web development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java, springboot, react 
 - 📫 Reach me on- srikantsgs19@gmail.com
 
 <!---
